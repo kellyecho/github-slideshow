@@ -2,7 +2,7 @@
 
 
 
-layout: slide
+layout: slide234
 
 title: "Welcoe to our second slide!"
 
